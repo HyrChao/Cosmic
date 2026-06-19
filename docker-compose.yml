@@ -17,8 +17,8 @@ services:
       DB_HOST: mariadb ## Remember if this is present it will OVERRIDE the host in the config.yaml, if you put here anything other than db, you'll need to change the config.yaml jdbc string to port 3307, and not port 3306   
       DB_PORT: 3306
       DB_NAME: maple_cosmic
-      DB_USER: maple_cosmic
-      DB_PASSWORD: cosmic123
+      DB_USER: maple
+      DB_PASSWORD: WRDL.Lq-.TvA)FIB
     networks:
       - backend
 
